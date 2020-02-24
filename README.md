@@ -1,5 +1,5 @@
 # NimmarajuSriLalithaSaraswathi_ExceptionsAndLogging
-- This is a Maven Project for the folowing programs using Design Principles,Clean Code and Serialization
+- This is a Maven Project for the folowing programs using Design Principles,Clean Code,Exceptions and Logging
  * To write Program to calculate simple interest, and compound interest(IntrerstCalculator)
  * To write Program to estimate house construction cost, based on various  materials(House Construction)
  * Construction cost per square feet is
