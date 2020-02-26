@@ -1,0 +1,12 @@
+2020-02-26 19:02:949 INFO  CostCalculationMain:16 - CostCalculationimpl constructor is called
+2020-02-26 19:02:952 INFO  CostCalculationMain:18 - Exited CostCalculationimpl constructor
+2020-02-26 19:02:952 INFO  CostCalculationMain:29 - Entered calculateCost() 
+2020-02-26 19:02:953 ERROR CostCalculationMain:41 - Invalid input
+2020-02-26 19:02:348 INFO  CostCalculationMain:16 - CostCalculationimpl constructor is called
+2020-02-26 19:02:351 INFO  CostCalculationMain:18 - Exited CostCalculationimpl constructor
+2020-02-26 19:02:352 INFO  CostCalculationMain:29 - Entered calculateCost() 
+2020-02-26 19:02:352 INFO  CostCalculationMain:37 - Exit from calculateCost() 
+2020-02-26 19:02:209 INFO  CostCalculationMain:16 - CostCalculationimpl constructor is called
+2020-02-26 19:02:213 INFO  CostCalculationMain:18 - Exited CostCalculationimpl constructor
+2020-02-26 19:02:213 INFO  CostCalculationMain:29 - Entered calculateCost() 
+2020-02-26 19:02:214 INFO  CostCalculationMain:37 - Exit from calculateCost() 

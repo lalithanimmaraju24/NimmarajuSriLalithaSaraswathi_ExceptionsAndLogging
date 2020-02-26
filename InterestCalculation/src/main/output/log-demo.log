@@ -1,0 +1,4 @@
+2020-02-26 19:02:317 INFO  CompoundInterest:10 - Entered calcualte() in CompoundInterest
+2020-02-26 19:02:320 INFO  CompoundInterest:13 - succesfully completed calcualte() in  Compound Interest 
+2020-02-26 19:02:243 INFO  SimpleInterest:9 - Entered calcualte() in SimpleInterest 
+2020-02-26 19:02:247 INFO  SimpleInterest:12 - succesfully completed calcualte() 
